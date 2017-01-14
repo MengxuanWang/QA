@@ -13,7 +13,7 @@ Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks
 A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
 
 
-## Reincorcement Learning for dialog generation 
+## Reinforcement Learning for dialog generation 
 
 ### papers 
 Optimizing Dialog Management with Reinforcement Learning: Experiments with the NJFun System 
