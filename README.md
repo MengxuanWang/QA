@@ -12,6 +12,7 @@ Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks
 
 A Deep Architecture for Semantic Matching with Multiple Positional Sentence Representations
 
+ABCNN:Attention-Based Convolutional Neural Network for Modeling Sentence Pairs 
 
 ## Reinforcement Learning for dialog generation 
 
